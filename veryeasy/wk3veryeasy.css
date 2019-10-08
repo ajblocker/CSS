@@ -1,0 +1,19 @@
+table{
+   border: 1px solid black; 
+    border-collapse: collapse; 
+    border-spacing: 0; /* cellspacing */
+  }
+  th, td { 
+    padding: 0px;  /* cellpadding */
+  }
+
+.white{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.black{
+   background-color: black;
+    height: 50px;
+    width: 50px;
+}

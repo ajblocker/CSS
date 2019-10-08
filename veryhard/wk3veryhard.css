@@ -1,0 +1,23 @@
+h1{
+    font-weight: bold;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 300px 500px;
+    grid-gap: 10px;
+}
+
+p{
+    margin: 0;
+}
+
+
+.grid-container__title-italic{
+    font-style: italic;
+}
+
+.grid-container__paragraph-bold{
+    font-weight: bold;
+}
